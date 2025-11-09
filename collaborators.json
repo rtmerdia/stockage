@@ -1,505 +1,564 @@
-[{
-  "name": "Adrien Bocquet",
-  "photo": "",
-  "description": "\"Auteur et voyageur en zone de conflit Ukraine. Connu pour produire des récits biaisés pro-Moscou relayés dans les sphères pro-Kremlin. Joue un rôle d'influence majeure dans la diffusion de désinformation pro-Russie.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Production de récits biaisés pro-Moscou sur l'Ukraine; Relais de désinformation russe; Diffusion dans les sphères pro-Kremlin; Participation à des réseaux russophiles.\"",
-  "preuves": "[\"Vidéos biaisées sur l'Ukraine\",\"Publications sur réseaux sociaux pro-Kremlin\",\"Articles relayant la propagande russe\",\"Associations avec Xavier Moreau et autres propagandistes du Kremlin\"]",
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:30.570Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Andréa Kotarac",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andr%C3%A9a.Kotarac_%28cropped%29.jpg/250px-Andr%C3%A9a.Kotarac_%28cropped%29.jpg",
-  "description": "\"Homme politique français, ancien député. A visité la Crimée après son annexion par la Russie, participant à un forum international visant à promouvoir un rapprochement avec le Kremlin.\"",
-  "threat_rank": "\"Faible\"",
-  "accusation": "\"Visite en Crimée annexée, interprétée comme une légitimation de l'annexion et promotion d'un rapprochement avec le Kremlin.\"",
-  "preuves": [
-    "Participation à un forum international en Crimée après l'annexion (avec Thierry Mariani)."
-  ],
-  "evenements": [],
-  "autorites_contactees": [],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:06:16.282Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Aymeric Chauprade",
-  "photo": "",
-  "description": "\"Géopolitologue, ancien eurodéputé, acteur du Dialogue Franco-Russe. Connu pour la promotion de la ligne Poutine et ses positions pro-russes.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Promotion de la ligne Poutine; Participation active au Dialogue Franco-Russe; Alignement systématique sur les narratifs russes en géopolitique.\"",
-  "preuves": [
-    "Interventions publiques alignées sur les positions du Kremlin",
-    "Colloques du Dialogue Franco-Russe",
-    "Articles et analyses favorables à la politique étrangère russe",
-    "Positions en tant qu'ancien eurodéputé promouvant le rapprochement avec la Russie"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:29.001Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Caroline Galactéros",
-  "photo": "",
-  "description": "\"Essayiste et analyste géopolitique française, connue pour ses positions alignées avec Moscou. Invitée régulière sur RT et Sputnik, elle promeut des narratifs favorables à la Russie et critiques de la politique étrangère occidentale.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Promotion de narratifs géopolitiques alignés avec les intérêts russes; Relais de propagande pro-Kremlin par les médias russes; Critiques systématiques de la politique étrangère occidentale.\"",
-  "preuves": [
-    "Interventions régulières sur RT et Sputnik",
-    "Publications et analyses géopolitiques favorables à la Russie",
-    "Avis critiques envers l'OTAN et la politique étrangère occidentale",
-    "Associations avec d'autres figures pro-Kremlin"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:29.483Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Christelle Néant",
-  "photo": "",
-  "description": "\"Fondatrice de Donbass Insider, soutien affiché au Kremlin, diffusion de contenu conspirationniste pro-russe sur l'Ukraine. Régulièrement présente sur RT, suivie par plus de 40 000 personnes sur YouTube et 26 000 sur Telegram.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Fondatrice du site d'informations pro-russe Donbass Insider; relais du point de vue de Moscou; présence régulière sur RT (Russia Today, financée par le Kremlin); diffusion de narratifs conspirationnistes pro-Kremlin sur l'Ukraine; déclarations sur les 'bataillons néonazis' de Kiev.\"",
-  "preuves": [
-    "Fondatrice du site Donbass Insider",
-    "Activité régulière sur la chaîne RT (Russia Today)",
-    "Couverture vidéos pro-Kremlin sur l'Ukraine",
-    "Plus de 40 000 abonnés sur YouTube",
-    "26 000 abonnés sur Telegram",
-    "Relais des narratifs du Kremlin sur les 'bataillons néonazis' de Kiev"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:31.773Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "David Van Hemelryck",
-  "photo": "",
-  "description": "\"Militant d'extrême droite, influenceur et activiste français connu pour ses actions spectaculaires et complotistes. Joue un rôle d'influence majeure dans la diffusion de désinformation pro-Kremlin en France, notamment sur l'Ukraine. Actif sur les réseaux et plateformes conspirationnistes.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Relais de désinformation russe sur l'Ukraine; collaboration avec médias complotistes; propagande Covid; agenda pro-Kremlin; reportages biaisés sur l'invasion de l'Ukraine",
-  "preuves": [
-    "Actions d'activisme aérien avec banderoles spectaculaires",
-    "Relais d'intox sur la crise sanitaire et l'Ukraine (déploiement de la Légion étrangère en Ukraine en mai 2024)",
-    "Théories conspirationnistes sur Notre-Dame (avril 2019) démenties par AFP Factuel",
-    "Citation Wikipedia: militant d'extrême droite connu pour ses positions complotistes",
-    "Reportage biaisé en Ukraine en mars 2022 avec Erik Tegnér critiqué pour exporter un agenda franco-français"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:43:32.636Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Erik Tegnér",
-  "photo": "",
-  "description": "\"Journaliste, organisateur de reportages biaisés sur Ukraine, collaborateur de Van Hemelryck, actif sur réseaux complotistes pro-russes\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Reportages biaisés sur l'Ukraine; Collaboration avec David Van Hemelryck pour exporter un agenda franco-français; Participation à des réseaux complotistes pro-russes\"",
-  "preuves": [
-    "Productions vidéos sur l'Ukraine",
-    "Conte sur réseaux sociaux",
-    "Reportages critiqués pour leur parti pris en faveur de narratifs pro-Kremlin"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:31.635Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Florian Philippot",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2022-04-16_16-49-26_MAM-Paris_02.jpg/250px-2022-04-16_16-49-26_MAM-Paris_02.jpg",
-  "description": "\"Homme politique français, président du parti Les Patriotes. Connu pour ses positions souverainistes et ses critiques de l'OTAN et de l'Union Européenne, il est fréquemment accusé de relayer la propagande du Kremlin.\"",
-  "threat_rank": "\"Moyen\"",
-  "accusation": "\"Accusé de relayer la propagande du Kremlin.\"",
-  "preuves": [
-    "Apparitions régulières sur RT France avant son interdiction.",
-    "Prises de position alignées sur les narratifs du Kremlin concernant l'Ukraine."
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "pharos"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-28T18:36:40.699Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "François Asselineau",
-  "photo": "",
-  "description": "\"Homme politique français, président de l'Union Populaire Républicaine (UPR). Connu pour ses positions géopolitiques critiques envers les États-Unis et pro-rapprochement avec la Russie. Régulièrement accusé de relayer la propagande russe et de promouvoir des narratifs alignés avec les intérêts du Kremlin.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Promotion d'un rapprochement avec la Russie; Relais de propagande pro-Kremlin; Positions anti-OTAN et anti-UE alignées sur les narratifs russes; Critique systématique de la politique étrangère occidentale au profit des intérêts russes.\"",
-  "preuves": [
-    "Campagne électorale 2022 : positionnement clairement pro-Russie et anti-OTAN.",
-    "Articles et déclarations favorables à un rapprochement avec Moscou.",
-    "Critiques récurrentes de l'aide occidentale à l'Ukraine, présentée comme contre-productive.",
-    "Positions souverainistes utilisées pour légitimer la politique étrangère russe.",
-    "Présence sur les réseaux sociaux promouvant les narratifs du Kremlin."
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "pharos",
-    "viginum"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:40:46.269Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Hervé Caresse",
-  "photo": "",
-  "description": "\"pseudo-Historien Mili, adore utiliser le mot trou du cul, bloque très facilement, très lâche et fais du bomb review sur les livres du colonel Goya\"",
-  "threat_rank": "\"Faible\"",
-  "accusation": "\"attaque ad hominem\"",
-  "preuves": [],
-  "evenements": [],
-  "autorites_contactees": [],
-  "history": [
-    {
-      "id": "hist_20251030_173810_ad4gzq",
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-30T17:38:10.741Z",
-      "metadata": {
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-        "ipAddress": "::ffff:127.0.0.1",
-        "changeType": "escalation"
+[
+  {
+    "name": "Adrien Bocquet",
+    "photo": "",
+    "description": "\"Auteur et voyageur en zone de conflit Ukraine. Connu pour produire des récits biaisés pro-Moscou relayés dans les sphères pro-Kremlin. Joue un rôle d'influence majeure dans la diffusion de désinformation pro-Russie.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Production de récits biaisés pro-Moscou sur l'Ukraine; Relais de désinformation russe; Diffusion dans les sphères pro-Kremlin; Participation à des réseaux russophiles.\"",
+    "preuves": [
+      "Vidéos biaisées sur l'Ukraine",
+      "Publications sur réseaux sociaux pro-Kremlin",
+      "Articles relayant la propagande russe",
+      "Associations avec Xavier Moreau et autres propagandistes du Kremlin"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:30.570Z"
       }
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Maxime Chaillot",
-  "photo": "",
-  "description": "\"Influenceur TikTok/Instagram connu pour la diffusion de vidéos alarmistes sur la puissance militaire russe. Démarché par des réseaux russes pour relayer de la désinformation.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Diffusion de vidéos alarmistes sur la puissance militaire russe; Collaboration suspecte avec des réseaux russes pour la diffusion d'intoxications; Relais de désinformation.\"",
-  "preuves": [
-    "Vidéos TikTok alarmistes sur la puissance militaire russe",
-    "Campagnes d'influence identifiées",
-    "Citations dans la presse spécialisée sur l'influence russe"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:28.578Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Patrice Hubert",
-  "photo": "",
-  "description": "\"Directeur général du Rassemblement National, réseaux d'influence russes au sein du RN, tentatives de rapprochement avec oligarques russes.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Directeur général du RN avec réseaux d'influence russes au sein du parti; tentatives de rapprochement avec oligarques russes financant des opérations d'ingérence pour le Kremlin.\"",
-  "preuves": [
-    "Articles de presse documenting les réseaux russes de Patrice Hubert",
-    "Réseaux et liens entre le RN et la Russie",
-    "Rapprochements tentés avec Konstantin Malofeïev, oligarque ultraconservateur finançant des opérations d'ingérence"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:28.854Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Paul-Marie Couteaux",
-  "photo": "",
-  "description": "\"Essayiste souverainiste, membre des réseaux Russie-France. Défenseur politique des positions du Kremlin, agenda anti-UE et pro-Russe. Influence dans les milieux politiques et intellectuels français.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Défenseur des positions pro-Kremlin; Promotion d'un agenda anti-UE et pro-Russe; Participation aux réseaux d'influence Russie-France; Légitimation de la politique étrangère russe.\"",
-  "preuves": [
-    "Publications et essais pro-Kremlin",
-    "Tribunes dans la presse",
-    "Interventions dans les médias et réseaux"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:29.307Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Pierre Gentillet",
-  "photo": "",
-  "description": "\"Avocat, chroniqueur TV, cofondateur du Cercle Pouchkine, relais d'intox pro-Kremlin en France, positions pro-Poutine, réseaux Dialogue Franco-Russe.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Relais de désinformation pro-Kremlin; Cofondateur et pilier du Cercle Pouchkine; Membre du Dialogue Franco-Russe; Positions pro-Poutine; Candidat RN 2024.\"",
-  "preuves": [
-    "Tribunes et interventions TV favorables à un rapprochement avec la Russie",
-    "Activités au Cercle Pouchkine (think-tank russophile)",
-    "Participation au Dialogue Franco-Russe de Thierry Mariani",
-    "Positions publiques pro-Poutine",
-    "Candidature RN aux législatives 2024 après recrutement de Jordan Bardella"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:26.989Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Régis de Castelnau",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lancement_RS_-_Benoist_Bihan_et_R%C3%A9gis_de_Castelnau.jpg/330px-Lancement_RS_-_Benoist_Bihan_et_R%C3%A9gis_de_Castelnau.jpg",
-  "description": "\"Avocat et blogueur français, connu pour ses analyses critiques de la politique étrangère française et son soutien à un rapprochement avec la Russie. Il est régulièrement accusé de relayer la propagande du Kremlin.\"",
-  "threat_rank": "\"Faible\"",
-  "accusation": "\"Accusé de relayer la propagande du Kremlin.\"",
-  "preuves": [
-    "Participation à des émissions sur des plateformes comme 'Dialogue Franco-Russe' et Tocsin-Media'.",
-    "Diffusion de théories du complot et de désinformation issues de la propagande russe selon sa page Wikipédia."
-  ],
-  "evenements": [],
-  "autorites_contactees": [],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-28T18:39:24.844Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Thierry Mariani",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1718282772753_20240611_20240611_MARIANI_Thierry_FR_004.jpg/250px-1718282772753_20240611_20240611_MARIANI_Thierry_FR_004.jpg",
-  "description": "\"Homme politique français, président de l'association Dialogue Franco-Russe. Connu pour ses positions pro-russes et ses visites en Crimée après son annexion.\"",
-  "threat_rank": "\"Faible\"",
-  "accusation": "\"Président d'une association critiquée pour ses positions pro-russes; accusé de légitimer l'annexion de la Crimée.\"",
-  "preuves": [
-    "Président de l'association Dialogue Franco-Russe",
-    "Visites en Crimée après son annexion."
-  ],
-  "evenements": [],
-  "autorites_contactees": [],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:05:26.298Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Vladimir Fédorovski",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vladimir_F%C3%A9dorovski_-_Livre_sur_la_Place_de_Nancy_%2821138315229%29.jpg/330px-Vladimir_F%C3%A9dorovski_-_Livre_sur_la_Place_de_Nancy_%2821138315229%29.jpg",
-  "description": "\"pseudo diplomate russe d'origine ukraine\"",
-  "threat_rank": "\"Faible\"",
-  "accusation": "\"espionnage\"",
-  "preuves": [],
-  "evenements": [],
-  "autorites_contactees": [],
-  "history": [
-    {
-      "id": "hist_20251030_182629_v36rit",
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-30T18:26:29.248Z",
-      "metadata": {
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-        "ipAddress": "::ffff:127.0.0.1",
-        "changeType": "escalation"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Andréa Kotarac",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andr%C3%A9a.Kotarac_%28cropped%29.jpg/250px-Andr%C3%A9a.Kotarac_%28cropped%29.jpg",
+    "description": "\"Homme politique français, ancien député. A visité la Crimée après son annexion par la Russie, participant à un forum international visant à promouvoir un rapprochement avec le Kremlin.\"",
+    "threat_rank": "\"Faible\"",
+    "accusation": "\"Visite en Crimée annexée, interprétée comme une légitimation de l'annexion et promotion d'un rapprochement avec le Kremlin.\"",
+    "preuves": [
+      "Participation à un forum international en Crimée après l'annexion (avec Thierry Mariani)."
+    ],
+    "evenements": [],
+    "autorites_contactees": [],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:06:16.282Z"
       }
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Xavier Moreau",
-  "photo": "",
-  "description": "\"Ancien militaire et homme d'affaires franco-russe, connu pour être un propagandiste du Kremlin. Joue un rôle d'influence majeure pour la Russie en France en servant à blanchir la propagande russe auprès du public français. Selon Maxime Audinet, chercheur spécialiste de l'influence russe, les Français comme Xavier Moreau « servent à blanchir la propagande russe » car un citoyen français défendant des positions pro-Kremlin peut être perçu comme plus crédible qu'un propagandiste d'un média d'État russe. Pour Desk Russie, Xavier Moreau est « un zélote acharné des thèses du Kremlin, y compris les plus faisandées ».\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Propagande du Kremlin; Collaboration avec RT; Participation à des réseaux russophiles; Diffusion massive sur des plateformes conspirationnistes (Odysee/Rumble); Influence auprès de l'extrême-droite française; Diffusion de théories du Kremlin; Légitimation de narratifs pro-Kremlin\"",
-  "preuves": [
-    "Chaîne YouTube fermée (185 000 abonnés) pour manquements graves au règlement interdisant l'incitation à la haine",
-    "Activité vidéo régulière sur Rumble et Odysee",
-    "Citations par Desk Russie comme « zélote acharné des thèses du Kremlin »",
-    "Citations de Maxime Audinet, chercheur spécialiste de l'influence russe",
-    "Collaboration identifiée avec RT",
-    "Réseau familial russe (marié à une femme russe)",
-    "Associations avec Christelle Néant, Aymeric Chauprade, Adrien Bocquet, Régis de Castelnau, Caroline Galactéros"
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:42:25.653Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Xenia Fedorova",
-  "photo": "",
-  "description": "\"Ancienne présidente RT France, organisatrice de relais médiatiques pro-Kremlin en France, cheffe d'orchestre de l'influence informationnelle russe.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Ancienne présidente RT France; organisatrice de relais médiatiques pro-Kremlin; cheffe d'orchestre de l'influence informationnelle russe.\"",
-  "preuves": [
-    "Interviews médiatiques",
-    "Activités médias en France",
-    "Citation ARTE: \"Xenia Fedorova, le relais du Kremlin en France?\""
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "PHAROS",
-    "VIGINUM"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-29T14:45:30.332Z"
-    }
-  ],
-  "status": "active"
-},{
-  "name": "Yury Khoroshenky",
-  "photo": "",
-  "description": "\"Officier du GRU russe, suspecté d'être impliqué dans l'opération de désinformation 'Storm-1516' selon un rapport de VIGINUM.\"",
-  "threat_rank": "\"Élevé\"",
-  "accusation": "\"Implication dans une campagne d'influence étrangère.\"",
-  "preuves": [
-    "Rapport de VIGINUM sur l'opération 'Storm-1516'."
-  ],
-  "evenements": [],
-  "autorites_contactees": [
-    "viginum"
-  ],
-  "history": [
-    {
-      "oldStatus": "N/A",
-      "newStatus": "active",
-      "reason": "Initial creation",
-      "timestamp": "2025-10-28T18:34:50.320Z"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Aymeric Chauprade",
+    "photo": "",
+    "description": "\"Géopolitologue, ancien eurodéputé, acteur du Dialogue Franco-Russe. Connu pour la promotion de la ligne Poutine et ses positions pro-russes.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Promotion de la ligne Poutine; Participation active au Dialogue Franco-Russe; Alignement systématique sur les narratifs russes en géopolitique.\"",
+    "preuves": [
+      "Interventions publiques alignées sur les positions du Kremlin",
+      "Colloques du Dialogue Franco-Russe",
+      "Articles et analyses favorables à la politique étrangère russe",
+      "Positions en tant qu'ancien eurodéputé promouvant le rapprochement avec la Russie"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:29.001Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Caroline Galactéros",
+    "photo": "",
+    "description": "\"Essayiste et analyste géopolitique française, connue pour ses positions alignées avec Moscou. Invitée régulière sur RT et Sputnik, elle promeut des narratifs favorables à la Russie et critiques de la politique étrangère occidentale.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Promotion de narratifs géopolitiques alignés avec les intérêts russes; Relais de propagande pro-Kremlin par les médias russes; Critiques systématiques de la politique étrangère occidentale.\"",
+    "preuves": [
+      "Interventions régulières sur RT et Sputnik",
+      "Publications et analyses géopolitiques favorables à la Russie",
+      "Avis critiques envers l'OTAN et la politique étrangère occidentale",
+      "Associations avec d'autres figures pro-Kremlin"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:29.483Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Christelle Néant",
+    "photo": "",
+    "description": "\"Fondatrice de Donbass Insider, soutien affiché au Kremlin, diffusion de contenu conspirationniste pro-russe sur l'Ukraine. Régulièrement présente sur RT, suivie par plus de 40 000 personnes sur YouTube et 26 000 sur Telegram.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Fondatrice du site d'informations pro-russe Donbass Insider; relais du point de vue de Moscou; présence régulière sur RT (Russia Today, financée par le Kremlin); diffusion de narratifs conspirationnistes pro-Kremlin sur l'Ukraine; déclarations sur les 'bataillons néonazis' de Kiev.\"",
+    "preuves": [
+      "Fondatrice du site Donbass Insider",
+      "Activité régulière sur la chaîne RT (Russia Today)",
+      "Couverture vidéos pro-Kremlin sur l'Ukraine",
+      "Plus de 40 000 abonnés sur YouTube",
+      "26 000 abonnés sur Telegram",
+      "Relais des narratifs du Kremlin sur les 'bataillons néonazis' de Kiev"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:31.773Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "David Van Hemelryck",
+    "photo": "",
+    "description": "\"Militant d'extrême droite, influenceur et activiste français connu pour ses actions spectaculaires et complotistes. Joue un rôle d'influence majeure dans la diffusion de désinformation pro-Kremlin en France, notamment sur l'Ukraine. Actif sur les réseaux et plateformes conspirationnistes.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Relais de désinformation russe sur l'Ukraine; collaboration avec médias complotistes; propagande Covid; agenda pro-Kremlin; reportages biaisés sur l'invasion de l'Ukraine",
+    "preuves": [
+      "Actions d'activisme aérien avec banderoles spectaculaires",
+      "Relais d'intox sur la crise sanitaire et l'Ukraine (déploiement de la Légion étrangère en Ukraine en mai 2024)",
+      "Théories conspirationnistes sur Notre-Dame (avril 2019) démenties par AFP Factuel",
+      "Citation Wikipedia: militant d'extrême droite connu pour ses positions complotistes",
+      "Reportage biaisé en Ukraine en mars 2022 avec Erik Tegnér critiqué pour exporter un agenda franco-français"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:43:32.636Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Erik Tegnér",
+    "photo": "",
+    "description": "\"Journaliste, organisateur de reportages biaisés sur Ukraine, collaborateur de Van Hemelryck, actif sur réseaux complotistes pro-russes\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Reportages biaisés sur l'Ukraine; Collaboration avec David Van Hemelryck pour exporter un agenda franco-français; Participation à des réseaux complotistes pro-russes\"",
+    "preuves": [
+      "Productions vidéos sur l'Ukraine",
+      "Conte sur réseaux sociaux",
+      "Reportages critiqués pour leur parti pris en faveur de narratifs pro-Kremlin"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:31.635Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Florian Philippot",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2022-04-16_16-49-26_MAM-Paris_02.jpg/250px-2022-04-16_16-49-26_MAM-Paris_02.jpg",
+    "description": "\"Homme politique français, président du parti Les Patriotes. Connu pour ses positions souverainistes et ses critiques de l'OTAN et de l'Union Européenne, il est fréquemment accusé de relayer la propagande du Kremlin.\"",
+    "threat_rank": "\"Moyen\"",
+    "accusation": "\"Accusé de relayer la propagande du Kremlin.\"",
+    "preuves": [
+      "Apparitions régulières sur RT France avant son interdiction.",
+      "Prises de position alignées sur les narratifs du Kremlin concernant l'Ukraine."
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "pharos"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-28T18:36:40.699Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "François Asselineau",
+    "photo": "",
+    "description": "\"Homme politique français, président de l'Union Populaire Républicaine (UPR). Connu pour ses positions géopolitiques critiques envers les États-Unis et pro-rapprochement avec la Russie. Régulièrement accusé de relayer la propagande russe et de promouvoir des narratifs alignés avec les intérêts du Kremlin.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Promotion d'un rapprochement avec la Russie; Relais de propagande pro-Kremlin; Positions anti-OTAN et anti-UE alignées sur les narratifs russes; Critique systématique de la politique étrangère occidentale au profit des intérêts russes.\"",
+    "preuves": [
+      "Campagne électorale 2022 : positionnement clairement pro-Russie et anti-OTAN.",
+      "Articles et déclarations favorables à un rapprochement avec Moscou.",
+      "Critiques récurrentes de l'aide occidentale à l'Ukraine, présentée comme contre-productive.",
+      "Positions souverainistes utilisées pour légitimer la politique étrangère russe.",
+      "Présence sur les réseaux sociaux promouvant les narratifs du Kremlin."
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "pharos",
+      "viginum"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:40:46.269Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Hervé Caresse",
+    "photo": "",
+    "description": "\"pseudo-Historien Mili, adore utiliser le mot trou du cul, bloque très facilement, très lâche et fais du bomb review sur les livres du colonel Goya\"",
+    "threat_rank": "\"Faible\"",
+    "accusation": "\"attaque ad hominem\"",
+    "preuves": [],
+    "evenements": [],
+    "autorites_contactees": [],
+    "history": [
+      {
+        "id": "hist_20251030_173810_ad4gzq",
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-30T17:38:10.741Z",
+        "metadata": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+          "ipAddress": "::ffff:127.0.0.1",
+          "changeType": "escalation"
+        }
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Maxime Chaillot",
+    "photo": "",
+    "description": "\"Influenceur TikTok/Instagram connu pour la diffusion de vidéos alarmistes sur la puissance militaire russe. Démarché par des réseaux russes pour relayer de la désinformation.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Diffusion de vidéos alarmistes sur la puissance militaire russe; Collaboration suspecte avec des réseaux russes pour la diffusion d'intoxications; Relais de désinformation.\"",
+    "preuves": [
+      "Vidéos TikTok alarmistes sur la puissance militaire russe",
+      "Campagnes d'influence identifiées",
+      "Citations dans la presse spécialisée sur l'influence russe"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:28.578Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Patrice Hubert",
+    "photo": "",
+    "description": "\"Directeur général du Rassemblement National, réseaux d'influence russes au sein du RN, tentatives de rapprochement avec oligarques russes.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Directeur général du RN avec réseaux d'influence russes au sein du parti; tentatives de rapprochement avec oligarques russes financant des opérations d'ingérence pour le Kremlin.\"",
+    "preuves": [
+      "Articles de presse documenting les réseaux russes de Patrice Hubert",
+      "Réseaux et liens entre le RN et la Russie",
+      "Rapprochements tentés avec Konstantin Malofeïev, oligarque ultraconservateur finançant des opérations d'ingérence"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:28.854Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Paul-Marie Couteaux",
+    "photo": "",
+    "description": "\"Essayiste souverainiste, membre des réseaux Russie-France. Défenseur politique des positions du Kremlin, agenda anti-UE et pro-Russe. Influence dans les milieux politiques et intellectuels français.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Défenseur des positions pro-Kremlin; Promotion d'un agenda anti-UE et pro-Russe; Participation aux réseaux d'influence Russie-France; Légitimation de la politique étrangère russe.\"",
+    "preuves": [
+      "Publications et essais pro-Kremlin",
+      "Tribunes dans la presse",
+      "Interventions dans les médias et réseaux"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:29.307Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Pierre Gentillet",
+    "photo": "",
+    "description": "\"Avocat, chroniqueur TV, cofondateur du Cercle Pouchkine, relais d'intox pro-Kremlin en France, positions pro-Poutine, réseaux Dialogue Franco-Russe.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Relais de désinformation pro-Kremlin; Cofondateur et pilier du Cercle Pouchkine; Membre du Dialogue Franco-Russe; Positions pro-Poutine; Candidat RN 2024.\"",
+    "preuves": [
+      "Tribunes et interventions TV favorables à un rapprochement avec la Russie",
+      "Activités au Cercle Pouchkine (think-tank russophile)",
+      "Participation au Dialogue Franco-Russe de Thierry Mariani",
+      "Positions publiques pro-Poutine",
+      "Candidature RN aux législatives 2024 après recrutement de Jordan Bardella"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:26.989Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Régis de Castelnau",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lancement_RS_-_Benoist_Bihan_et_R%C3%A9gis_de_Castelnau.jpg/330px-Lancement_RS_-_Benoist_Bihan_et_R%C3%A9gis_de_Castelnau.jpg",
+    "description": "\"Avocat et blogueur français, connu pour ses analyses critiques de la politique étrangère française et son soutien à un rapprochement avec la Russie. Il est régulièrement accusé de relayer la propagande du Kremlin.\"",
+    "threat_rank": "\"Faible\"",
+    "accusation": "\"Accusé de relayer la propagande du Kremlin.\"",
+    "preuves": [
+      "Participation à des émissions sur des plateformes comme 'Dialogue Franco-Russe' et Tocsin-Media'.",
+      "Diffusion de théories du complot et de désinformation issues de la propagande russe selon sa page Wikipédia."
+    ],
+    "evenements": [],
+    "autorites_contactees": [],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-28T18:39:24.844Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Thierry Mariani",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1718282772753_20240611_20240611_MARIANI_Thierry_FR_004.jpg/250px-1718282772753_20240611_20240611_MARIANI_Thierry_FR_004.jpg",
+    "description": "\"Homme politique français, président de l'association Dialogue Franco-Russe. Connu pour ses positions pro-russes et ses visites en Crimée après son annexion.\"",
+    "threat_rank": "\"Faible\"",
+    "accusation": "\"Président d'une association critiquée pour ses positions pro-russes; accusé de légitimer l'annexion de la Crimée.\"",
+    "preuves": [
+      "Président de l'association Dialogue Franco-Russe",
+      "Visites en Crimée après son annexion."
+    ],
+    "evenements": [],
+    "autorites_contactees": [],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:05:26.298Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Vladimir Fédorovski",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vladimir_F%C3%A9dorovski_-_Livre_sur_la_Place_de_Nancy_%2821138315229%29.jpg/330px-Vladimir_F%C3%A9dorovski_-_Livre_sur_la_Place_de_Nancy_%2821138315229%29.jpg",
+    "description": "\"pseudo diplomate russe d'origine ukraine\"",
+    "threat_rank": "\"Faible\"",
+    "accusation": "\"espionnage\"",
+    "preuves": [],
+    "evenements": [],
+    "autorites_contactees": [],
+    "history": [
+      {
+        "id": "hist_20251030_182629_v36rit",
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-30T18:26:29.248Z",
+        "metadata": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+          "ipAddress": "::ffff:127.0.0.1",
+          "changeType": "escalation"
+        }
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Xavier Moreau",
+    "photo": "",
+    "description": "\"Ancien militaire et homme d'affaires franco-russe, connu pour être un propagandiste du Kremlin. Joue un rôle d'influence majeure pour la Russie en France en servant à blanchir la propagande russe auprès du public français. Selon Maxime Audinet, chercheur spécialiste de l'influence russe, les Français comme Xavier Moreau « servent à blanchir la propagande russe » car un citoyen français défendant des positions pro-Kremlin peut être perçu comme plus crédible qu'un propagandiste d'un média d'État russe. Pour Desk Russie, Xavier Moreau est « un zélote acharné des thèses du Kremlin, y compris les plus faisandées ».\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Propagande du Kremlin; Collaboration avec RT; Participation à des réseaux russophiles; Diffusion massive sur des plateformes conspirationnistes (Odysee/Rumble); Influence auprès de l'extrême-droite française; Diffusion de théories du Kremlin; Légitimation de narratifs pro-Kremlin\"",
+    "preuves": [
+      "Chaîne YouTube fermée (185 000 abonnés) pour manquements graves au règlement interdisant l'incitation à la haine",
+      "Activité vidéo régulière sur Rumble et Odysee",
+      "Citations par Desk Russie comme « zélote acharné des thèses du Kremlin »",
+      "Citations de Maxime Audinet, chercheur spécialiste de l'influence russe",
+      "Collaboration identifiée avec RT",
+      "Réseau familial russe (marié à une femme russe)",
+      "Associations avec Christelle Néant, Aymeric Chauprade, Adrien Bocquet, Régis de Castelnau, Caroline Galactéros"
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:42:25.653Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Xenia Fedorova",
+    "photo": "",
+    "description": "\"Ancienne présidente RT France, organisatrice de relais médiatiques pro-Kremlin en France, cheffe d'orchestre de l'influence informationnelle russe.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Ancienne présidente RT France; organisatrice de relais médiatiques pro-Kremlin; cheffe d'orchestre de l'influence informationnelle russe.\"",
+    "preuves": [
+      "Interviews médiatiques",
+      "Activités médias en France",
+      "Citation ARTE: \"Xenia Fedorova, le relais du Kremlin en France?\""
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "PHAROS",
+      "VIGINUM"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-29T14:45:30.332Z"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Yury Khoroshenky",
+    "photo": "",
+    "description": "\"Officier du GRU russe, suspecté d'être impliqué dans l'opération de désinformation 'Storm-1516' selon un rapport de VIGINUM.\"",
+    "threat_rank": "\"Élevé\"",
+    "accusation": "\"Implication dans une campagne d'influence étrangère.\"",
+    "preuves": [
+      "Rapport de VIGINUM sur l'opération 'Storm-1516'."
+    ],
+    "evenements": [],
+    "autorites_contactees": [
+      "viginum"
+    ],
+    "history": [
+      {
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-10-28T18:34:50.320Z"
+      },
+      {
+        "id": "hist_20251030_164020_8x3zik",
+        "oldStatus": "active",
+        "newStatus": "inactive",
+        "reason": "Test simple status change",
+        "timestamp": "2025-10-30T16:40:20.926Z",
+        "metadata": {
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.6899",
+          "ipAddress": "::1",
+          "changeType": "escalation",
+          "userRole": "user"
+        }
+      }
+    ],
+    "status": "inactive"
+  },
+  {
+    "name": "Loetitia Halàsz",
+    "description": "est une Hongroise engagée pour le parti Fidesz de Viktor Orbán, partageant régulièrement des analyses et des vidéos sur les avancées militaires russes en Ukraine, les crises énergétiques ukrainiennes et les critiques envers Zelensky. Ses publications mettent en avant une vision souverainiste, anti-mondialiste et chrétienne, avec des commentaires sur des figures comme Trump et Loukachenko. Elle interagit souvent avec des comptes pro-russes, amplifiant des narratifs sur la défense des frontières et la résistance aux influences occidentales.\"Toutes les centrales thermiques publiques d'Ukraine sont à l'arrêt et la production d'électricité est interrompue, rapporte la société d'État « Centrenergo ».\" -@LoetitiaH",
+    "threat_rank": "Faible",
+    "accusation": "propagande",
+    "photo": "",
+    "preuves": [
+      "https://x.com/LoetitiaH/status/1987080647878279628"
+    ],
+    "autorites_contactees": [],
+    "status": "active",
+    "metadata": {
+      "created_at": "2025-11-09T08:55:31.190Z",
+      "updated_at": "2025-11-09T08:55:31.190Z",
+      "last_sync": null,
+      "sync_status": "pending",
+      "status_change_count": 0
     },
-    {
-      "id": "hist_20251030_164020_8x3zik",
-      "oldStatus": "active",
-      "newStatus": "inactive",
-      "reason": "Test simple status change",
-      "timestamp": "2025-10-30T16:40:20.926Z",
-      "metadata": {
-        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.26100.6899",
-        "ipAddress": "::1",
-        "changeType": "escalation",
-        "userRole": "user"
+    "history": [
+      {
+        "id": "hist_20251109_085531_gaiwso",
+        "oldStatus": "N/A",
+        "newStatus": "active",
+        "reason": "Initial creation",
+        "timestamp": "2025-11-09T08:55:31.190Z",
+        "metadata": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+          "ipAddress": "::ffff:127.0.0.1",
+          "changeType": "escalation"
+        }
       }
-    }
-  ],
-  "status": "inactive"
-}]
+    ]
+  }
+]
